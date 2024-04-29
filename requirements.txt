@@ -1,0 +1,7 @@
+ollama
+discord
+aiohttp
+pdfminer
+pdfminer.six
+chardet
+pillow
